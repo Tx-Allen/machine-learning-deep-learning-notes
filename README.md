@@ -34,6 +34,12 @@
   * [Matplotlib](python/Matplotlib)
   * [Scikit-Learn](python/Sklearn)
 
+## 数据结构和算法
+机器学习算法需要有效地存储和访问数据，数据结构如数组和链表用于管理训练数据。选择合适的数据结构可以提高机器学习算法的运行效率。许多机器学习模型的实现依赖于算法，如支持向量机（SVM）使用优化算法来找到最优的分类边界。
+* [Hello算法](https://www.hello-algo.com/chapter_introduction/)
+* [数据结构与算法/leetcode/lintcode题解]（https://algorithm.yuanbin.me/zh-hans/）
+
+
 ## 机器学习算法
 主要基于Machine Learning (Coursera, Andrew Ng) 的课程内容。
 * [机器学习算法系列](machine-learning/README.md)
